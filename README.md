@@ -8,4 +8,4 @@ Pueden hacer lo que quieran...
 
 ### Actualizado desde GitHub
 
-### Cmbios desde local
+### Cambios desde local actualizados
